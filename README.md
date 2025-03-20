@@ -10,7 +10,7 @@ This course, led by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI), provid
 - **Base LLM**: Predicts the next word based on training data.
 - **Instruction-Tuned LLM**: Fine-tuned to follow instructions using **Reinforcement Learning with Human Feedback (RLHF)**.
 
-### 2. Guidelines for Prompting
+### 2. [Guidelines for Prompting](https://github.com/michaWorku/ChatGPT-Prompt-Engineering/blob/main/l2-guidelines.ipynb)
 #### Setup
 - Load the API key and necessary Python libraries.
 - Create a helper function to generate outputs.
@@ -29,7 +29,7 @@ This course, led by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI), provid
 - **Hallucinations**: LLMs may generate incorrect but plausible-sounding responses.
 - Methods to reduce hallucinations are discussed.
 
-### 3. Iterative Prompt Development
+### 3. [Iterative Prompt Development](https://github.com/michaWorku/ChatGPT-Prompt-Engineering/blob/main/l3-iterative-prompt-development.ipynb)
 - Be clear and specific with instructions.
 - Analyze undesired outputs and refine prompts.
 - Iterate the process for better results.
@@ -38,31 +38,31 @@ This course, led by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI), provid
 - Adjust length, focus, and structure.
 - Extract and format data in tables.
 
-### 4. Summarization
+### 4. [Summarization](https://github.com/michaWorku/ChatGPT-Prompt-Engineering/blob/main/l4-summarizing.ipynb)
 - Summarize text with word/character limits.
 - Focus on specific topics (e.g., pricing, shipping).
 - Extract key information from multiple reviews.
 
-### 5. Inferring
+### 5. [Inferring](https://github.com/michaWorku/ChatGPT-Prompt-Engineering/blob/main/l5-inferring.ipynb)
 - Analyze sentiment (positive/negative).
 - Identify emotions and extract named entities.
 - Perform multiple tasks simultaneously.
 - Infer topics and generate alerts for news monitoring.
 
-### 6. Transforming
+### 6. [Transforming](https://github.com/michaWorku/ChatGPT-Prompt-Engineering/blob/main/l6-transforming.ipynb)
 - Translate text into multiple languages.
 - Adjust tone (formal, casual, professional).
 - Convert between formats (e.g., JSON to table).
 - Proofread and correct spelling/grammar.
 
-### 7. Expanding
+### 7. [Expanding](https://github.com/michaWorku/ChatGPT-Prompt-Engineering/blob/main/l7-expanding.ipynb)
 - Generate customized customer service emails.
 - Personalize responses using customer sentiment.
 - Control creativity with temperature settings:
   - **0.0**: Reliable and predictable outputs.
   - **0.3 - 0.7**: Some variety and creativity.
 
-### 8. Chatbot Development
+### 8. [Chatbot Development](https://github.com/michaWorku/ChatGPT-Prompt-Engineering/blob/main/l8-chatbot.ipynb)
 - Utilize the chat format for interactive conversations.
 - Implement an **OrderBot** for a pizza restaurant:
   - Collect and display messages.
